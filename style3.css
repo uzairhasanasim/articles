@@ -1,0 +1,41 @@
+#contact{
+    font-family: roboto;
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+
+}
+#crest{
+    font-family: roboto;
+    font-size: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: yellow;
+    
+}
+body{
+    background-color: #4c00ff;
+}
+#email{
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+}
+#emaill{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+    text-decoration: none;
+    width: 400px;
+    height: 50px;
+    
+}
+#emailll{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}

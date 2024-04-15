@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    background-color: rgb(76, 0, 255);
+}
+
+#webname{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Roboto;
+    color: yellow;
+    font-size: 40px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(255, 255, 132);
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 20PX;
+    text-align: center;
+    display: block;
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+    font-size: 20.5px;
+    transition: 0.999999s;
+}
+.navbar a:hover{
+    background-color: rgba(58, 45, 3, 0.452);
+    font-size: 27px;
+}
+.navbar li{
+    float:inline-start;
+}
+#img{
+  float: left;
+  padding-right: 10px;
+}
+#img:hover{
+    height: 250px;
+    width: 250px;
+}
+#para{
+    color: yellow;
+    font-size: 25px;
+}
+#chat{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: roboto;
+    font-size: 35px;
+}
+#para2{
+    color: yellow;
+    font-size: 25px;
+}
+#devin{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: roboto;
+    font-size: 35px;
+
+}
+#img2{
+    float: left;
+    padding-right: 10px;
+  }
+  #header{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: roboto;
+    font-size: 50px;
+  }
